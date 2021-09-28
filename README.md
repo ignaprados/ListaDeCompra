@@ -4,7 +4,7 @@ Buy list made with React.
 <br><br>
 Creator: [IgnacioPrados](https://github.com/IgnacioPrados)
 
-https://contador-ip.vercel.app
+https://listadecompra.vercel.app
 
 ## Description
 Responsive WebApp made with React. You can add and delete items from the buy list. It was made to practice complex state hooks in JS.
