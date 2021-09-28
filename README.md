@@ -1,13 +1,13 @@
 ![banner](https://raw.githubusercontent.com/IgnacioPrados/ListaDeCompra/master/public/preview.JPG)
 # Lista de Compra
-Lista de Compras hecha con React.
+Buy list made with React.
 <br><br>
 Creator: [IgnacioPrados](https://github.com/IgnacioPrados)
 
 https://contador-ip.vercel.app
 
 ## Description
-Web made with React, to practice hooks. It shows an interactive number counter.
+Responsive WebApp made with React. You can add and delete items from the buy list.
 
 ## Installation
 Use the package manager [npm](https://www.npmjs.com/) to install the React Web App.
